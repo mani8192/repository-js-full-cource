@@ -21,3 +21,6 @@ Question 1:-- Write JavaScript code to do the following:
 
 The function should take a number as input and return its factorial.
 Example: factorial(5) should return 120.
+
+
+
