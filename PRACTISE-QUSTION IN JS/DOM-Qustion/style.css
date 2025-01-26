@@ -1,0 +1,19 @@
+#Qustion{
+    color: aqua;
+    font-size: 100px;
+
+}
+
+.h2{
+    color: greenyellow; 
+    font-size: 70px;
+}
+
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 2px;
+    text-align: center;
+}

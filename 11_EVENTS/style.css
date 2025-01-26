@@ -1,0 +1,24 @@
+button{
+    height: 70px;
+    width: 70px;
+
+}
+
+
+.box1{
+    height: 200px;
+    width: 200px;
+    color: black;
+    border: 4px solid black;
+    background:red;
+
+}
+
+
+#size{
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    border: 5px solid black;
+    margin-top: 5px;
+}

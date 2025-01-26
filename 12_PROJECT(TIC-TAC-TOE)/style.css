@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color:#628395;
+    text-align: center;
+}
+
+.tic-tac{
+    color:black;
+    font-size: 40px;
+    margin-top:10px;
+}
+
+.container{
+    heigHt: 70vh;
+    margin-top: 8vmin;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    gap: 8px;
+}
+
+.cell{
+    margin: 0px;
+    padding: 0px;
+    height: 18vmin;
+    width: 18vmin;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: 0 0 0.7rem yellowgreen;
+    background-color:#F7FFF7;
+}
+
+#re-game{
+    margin-top: 0px;
+    height: 40px;
+    width: 140px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#new_game{
+    margin-left: 40px;
+    height: 30px;
+    width: 140px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#win_msg{
+    color: white;
+    font-size: 40px;
+    color: yellow;
+}
+
+.hide{
+    display: none;
+}
+
+h4{
+    font-size: 15px;
+}
