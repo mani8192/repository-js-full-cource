@@ -1,26 +1,25 @@
+QUSTION IN JAVA SCRIPT --
 
-Practice Questions --
-1- Write a function to find the square of a number.
-2- Create a function to check if a number is even or odd.
-3- Write a function that takes a string and returns its reverse.
-4- Use an arrow function to multiply three numbers.
-5- Write a function that calculates the factorial of a number. 
+Q1--Declare a variable called name and assign it the value "John Doe". Log the value to the console.
 
+Create a variable with the value 42.5. Use the typeof operator to check and log its data type.
 
+Create a variable x and assign it the value 10. Reassign x with the string "ten". Log x and its type using typeof.
 
+Assign the values 1, 2.5, and "Hello" to the variables a, b, and c in a single line. Log their values and types using typeof.
 
-Question 1:-- Write JavaScript code to do the following:
+Write a program to swap the values of two variables, a and b, without using a temporary variable.
 
-1-Select all <p> tags in the document.
-2-Change the text of the second <p> tag to: "This is updated by JavaScript".
-3-Change the background color of all <p> tags to lightblue.
+Declare two variables, num1 and num2, with values 15 and 4, respectively. Write a program to calculate and log their:
 
+Sum
+Difference
+Product
+Quotient
+Create a Boolean variable isActive and assign it the value true. Write a conditional statement to log "Active" if isActive is true, and "Inactive" otherwise.
 
+Declare a variable with a string value of "123". Convert it into a number using Number() and add 50 to it. Log the result.
 
- qustion 2 --Write a function that calculates the factorial of a given number.
+Write a program to demonstrate implicit type conversion in JavaScript by adding a number and a string (e.g., 5 + "10"). Log the result and its type.
 
-The function should take a number as input and return its factorial.
-Example: factorial(5) should return 120.
-
-
-
+Create a constant PI with the value 3.14. Use it to calculate and log the area of a circle with a radius of 5.
